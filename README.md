@@ -182,4 +182,4 @@ sqoop create-hive-table --connect jdbc:mysql://LH/COMPANY \
 --password p \
 ``` 
 
-[**Part 2 of Proposed Solution:**] ()  
+[**Part 2 of Proposed Solution:**] (https://github.com/samuel-ntsua/Big-Data_Hadoop_and_Spark_Developer/blob/8db81728cea971df4ae9bd398363fcde0137eb04/Final_project1_NYSE_DA_HDFS_Spark_sntsua.docx)  
