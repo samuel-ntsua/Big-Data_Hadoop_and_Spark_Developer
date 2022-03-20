@@ -84,9 +84,9 @@ Please use appropriate Hive built-in functions for columns (a,b,e and h to l).
     b. Best year  
     c. Stable year  
 
-[**Part 1 of Proposed Solution:**]
+[**Part 1 of Proposed Solution: Resolving the ambiguity**]
 
-In the problem Statement, we are given a URL to two csv files for the project; however the wording of the project tasks require learners to use a database called BDHS_PROJECT, which is supposed to be on the LMS server,  to create the data pipeline. But once you log on the LMS server, the supposed database BDHS_PROJECT is not accessible because we are not given the database’s hostname and the authentication information.
+In the problem Statement, we are given a URL to two csv files for the project; however the wording of the project tasks require learners to use a database called BDHS_PROJECT, which is supposed to be on the LMS server, to create the data pipeline. But once you log on the LMS server, the supposed database BDHS_PROJECT is not accessible because we are not given the database’s hostname and the authentication information.
 Given this ambiguous situation, I am going to upload the two csv files to LMS and created my own database that I can access with my LMS login credentials. This method added extra steps to the data pipeline, which I will describe below:
 
 ** From the LMS webconsole prompt:
