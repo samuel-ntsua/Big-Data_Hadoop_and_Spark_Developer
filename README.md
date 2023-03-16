@@ -1,4 +1,4 @@
-**Stock Exchange Data Analysis using Big-Data tools such as Hadoop, HIVE and Sqoop.**  
+**Data pipeline from Stock Exchange Data to Analysis in Hadoop + HIVE, using big data tools Sqoop, Oozie, Airflow and PIG Lating.**  
 
 In partial fulfillment of Simplilearn Master Data Science Certification course.  
 Due Date: Feb 17 2021  
