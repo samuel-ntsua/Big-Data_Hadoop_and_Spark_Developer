@@ -1,4 +1,4 @@
-**Data pipeline from Stock Exchange Data to Analysis in Hadoop + HIVE, using big data tools Sqoop, Oozie, Airflow and PIG Lating.**  
+**Data pipeline from Stock Exchange Data to Analysis in Hadoop + HIVE, using big data tools Sqoop, Oozie, Airflow and PIG Latin.**  
 
 In partial fulfillment of Simplilearn Master Data Science Certification course.  
 Due Date: Feb 17 2021  
